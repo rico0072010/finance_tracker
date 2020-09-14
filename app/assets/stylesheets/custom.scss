@@ -1,5 +1,22 @@
 @import "bootstrap/scss/bootstrap";
+@import "font-awesome";
 
-.navbar-brand {
-  font-size: 3rem;
+// .navbar-brand {
+//   font-size: 3rem;
+// }
+
+.search-area {
+  padding-top: 50px;
+}
+
+.no-right-padding {
+  padding-right: 0;
+}
+
+.no-left-padding {
+  padding-left: 0;
+}
+
+.results-block {
+  display: inline-block;
 }
