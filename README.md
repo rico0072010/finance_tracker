@@ -30,4 +30,4 @@ $ rails server
 ```
 
 For more information, see the
-[*Complete Ruby on Rails Tutorial* book](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/).
+[*Complete Ruby on Rails Tutorial*](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/).
